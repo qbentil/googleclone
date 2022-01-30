@@ -1,5 +1,5 @@
 # google homepage clone
-CS50(Web Development) Assignment 1
+CS50(Web Development) Project 0
 
 ## PAGES
 1. Google search homepage 
